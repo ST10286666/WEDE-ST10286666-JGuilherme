@@ -1,0 +1,169 @@
+ body{
+    margin: 0;
+ }
+
+ header{
+    padding: 10px;
+   }
+
+   .Capybara{
+    padding: 10px;
+    float: left;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .Capybara p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .Capybara img{
+border:2px solid;
+border-color: red;
+  }
+
+  .Space{
+    height: 25vh;
+    width: 85vw;
+  }
+  .HowlerMonkey{
+    padding: 10px;
+    float: right;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .HowlerMonkey p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .HowlerMonkey img{
+border:2px solid;
+border-color: grey;
+  }
+
+  .Space1{
+    height: 65vh;
+    width: 85vw;
+  }
+
+  .BlackCaimen{
+    padding: 10px;
+    float: left;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .BlackCaimen p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .BlackCaimen img{
+border:2px solid;
+border-color: grey;
+  }
+
+  .Space2{
+    height: 25vh;
+    width: 85vw;
+  }
+
+  .BlueMacaw{
+    padding: 10px;
+    float: right;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .BlueMacaw p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .BlueMacaw img{
+border:2px solid;
+border-color: red;
+  }
+
+  .Space3{
+    height: 65vh;
+    width:85vw;
+  }
+
+  .RiverDolphin{
+    padding: 10px;
+    float: left;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .RiverDolphin p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .RiverDolphin img{
+   border:2px solid;
+   border-color: grey;
+  }
+
+  .Space4{
+    height: 25vh;
+    width:85vw;
+  }
+
+  .SouthAmericanTapir{
+    padding: 10px;
+    float: right;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+ 
+  .SouthAmericanTapir p{
+    background-color: olive;
+    text-align: center;
+  }
+
+  .SouthAmericanTapir img{
+   border:2px solid;
+   border-color: red;
+  }
+
+ .Text{
+float: right;
+ text-align: center;
+ margin-right:13cm ;
+ border-style: hidden;
+ background-color: white;
+ 
+ }
+
+ .Text h1{
+  background-color: black;
+  color: white;
+ }
+
+ .Text p{
+  background-color: olive;
+ }
+
+.ColumnMid{
+    height: 80vh;
+    width: 85vw;
+}
+
+.footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}

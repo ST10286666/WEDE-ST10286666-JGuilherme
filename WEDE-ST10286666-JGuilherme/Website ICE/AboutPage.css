@@ -1,0 +1,39 @@
+body{
+    margin: 0
+}
+
+header{
+padding: 10px;
+
+}
+
+.imageTreeLeft{
+    padding: 10px;
+    float:left;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+    text-align: center;
+}
+
+.imageTreeRight{
+    padding: 10px;
+    float:right;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+    text-align: center;
+}
+
+.MiddleColumn{
+    height: 75vh;
+    width: 85vw;
+    text-align: center;
+}
+
+.footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,31 @@
+body{
+margin:0;
+}
+
+.TribeImage1{
+    padding: 10px;
+    float:left;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;
+}
+
+.TribesImage2{
+    padding: 10px;
+    float:right;
+    vertical-align: bottom;
+    border-style: hidden;
+    background-color: white;   
+}
+
+.MiddleCol{
+    height: 45vh;
+    width: 85vw;
+}
+
+.footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
